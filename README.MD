@@ -9,17 +9,17 @@ Master Hamster Kombat Bot is a Python-based automation tool specifically designe
 
 ❌ This project is intended for testing purposes only. Please refrain from abusing it. ❌
 
-⚠️ Please use GitHub [Discussions](https://github.com/masterking32/MasterHamsterKombatBot/discussions) and [Issues](https://github.com/masterking32/MasterHamsterKombatBot/issues) to report problems and engage in discussions with others about the project. Don't forget to star and watch the project to receive notifications for new updates. ⚠️
+⚠️ Please use GitHub [Discussions](https://github.com/eeak/MasterHamsterKombatBot_thread/discussions) and [Issues](https://github.com/eeak/MasterHamsterKombatBot_thread/issues) to report problems and engage in discussions with others about the project. Don't forget to star and watch the project to receive notifications for new updates. ⚠️
 
 <hr>
 
 ✅ Tested and confirmed to work as of `21 August 2024`. ✅
 
-<img align="center" src="https://raw.githubusercontent.com/masterking32/MasterHamsterKombatBot/main/screenshot.png" alt="Screenshot" />
+<img align="center" src="https://raw.githubusercontent.com/eeak/MasterHamsterKombatBot_thread/main/screenshot.png" alt="Screenshot" />
 
 #### ⭐ If you find this project useful, please consider giving it a star! ⭐
 
-<a href="https://github.com/masterking32/MasterHamsterKombatBot/stargazers"><img align="center" src="https://raw.githubusercontent.com/masterking32/MasterHamsterKombatBot/main/github_star.png" alt="github_star" /></a>
+<a href="https://github.com/eeak/MasterHamsterKombatBot_thread/stargazers"><img align="center" src="https://raw.githubusercontent.com/eeak/MasterHamsterKombatBot_thread/main/github_star.png" alt="github_star" /></a>
 
 <hr>
 
@@ -47,7 +47,7 @@ Master Hamster Kombat Bot is a Python-based automation tool specifically designe
 ## 💻 Installation
 1. Install Git & Download the Project.
 ```bash
-git clone https://github.com/masterking32/MasterHamsterKombatBot
+git clone https://github.com/eeak/MasterHamsterKombatBot_thread
 ```
 2. Install Python 3.
 3. Install the required packages,
@@ -61,7 +61,7 @@ pip install requests colorlog
 - Copy the `config.py.example` file to `config.py`. (`cp config.py.example config.py`)
 
 - Locate your `Authorization Bearer token` and place it in the `config.py` file. [How to Obtain a Token and Set Up the Bot?](https://www.youtube.com/watch?v=cjWE7DmMFgw)
-- [Find your device's UserAgent](https://github.com/masterking32/MasterHamsterKombatBot/blob/main/useful_files/user-agents.md) and place it in the `config.py` file.
+- [Find your device's UserAgent](https://github.com/eeak/MasterHamsterKombatBot_thread/blob/main/useful_files/user-agents.md) and place it in the `config.py` file.
 - Configure accounts
 
 5. Execute the command `py main.py`.
@@ -79,29 +79,17 @@ This option only works if you have Git installed on your system and you download
 
 <hr>
 
-### <a href="https://github.com/masterking32/MasterHamsterKombatBot/discussions/12#discussioncomment-9852919" target="_blank">🐧 Linux Installation Guide</a>
+### <a href="https://github.com/eeak/MasterHamsterKombatBot_thread/discussions/12#discussioncomment-9852919" target="_blank">🐧 Linux Installation Guide</a>
 
-### <a href="https://github.com/masterking32/MasterHamsterKombatBot/discussions/33#discussioncomment-10045854" target="_blank">👥 Multi-Account Example</a>
+### <a href="https://github.com/eeak/MasterHamsterKombatBot_thread/discussions/33#discussioncomment-10045854" target="_blank">👥 Multi-Account Example</a>
 
-### <a href="https://github.com/masterking32/MasterHamsterKombatBot/discussions/133#discussioncomment-10290865">🔒 Proxy Example</a>
+### <a href="https://github.com/eeak/MasterHamsterKombatBot_thread/discussions/133#discussioncomment-10290865">🔒 Proxy Example</a>
 
 You can buy proxies from <a href="https://www.webshare.io/?referral_code=2ghmowzxmc26">WebShare</a> or <a href="https://iproyal.com/?r=128279">IPRoyal</a>.
 
 <hr>
 
-💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
 
-TON:
-`UQDdtN_p3WwuGMVXtMasatomVNPJF-Ljscy0srozJZBl15eL`
-
-EVM-compatible blockchains:
-`0x517f07305D6ED781A089322B6cD93d1461bF8652`
-
-TRC20 chain:
-`TLApdY8APWkFHHoxebxGY8JhMeChiETqFH`
-
-RONIN Chain:
-`masterking.ron`
 
 <hr>
 
@@ -120,5 +108,6 @@ Feel free to [open a new issue](https://github.com/masterking32/MasterHamsterKom
 ---
 
 Developed By [MasterkinG32](https://github.com/masterking32)
+Developed By [eeak](https://github.com/eeak)
 
 <hr>
